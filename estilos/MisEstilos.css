@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "LetraPamboleros1";
+    src: url("../fuentes/ZenDots-Regular.ttf");
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.menu{
+    color:white;
+    font-family: "LetraPamboleros1";
+    border-bottom: 4px solid rgb(240,204,48);
+    font-size: 20px;
+}
+
+.titulo-pambolero{
+    font-family: "LetraPamboleros1";
+    color: rgb(240,204,48);
+    font-size: 26px;
+}
+
+.color-amarillo{
+    color: rgb(240,204,48);
+}
+
+.color-negro {
+color: black;
+}
+
+.borde-amarillo{
+    border-color: rgb(240,204,48) !important;
+}
+
+.bordes-redondos{
+    border-radius: 20px;
+}
+
+.border-8{
+    border-width: 8px !important;
+}
+
+.divisor {
+    color:rgb(240,204,48);
+    height: 5px;
+    opacity: unset !important;
+    margin-top: 20px;
+}
+
+.bg-danger {
+    background-color: rgb(150,16,13) !important; 
+}
+
+.btn-outline-danger {
+    color: rgb(150,16,13);
+    border-color: rgb(150,16,13);
+}
+
+.btn-outline-danger:hover {
+    color: #fff;
+    background-color: rgb(150,16,13);
+    border-color: rgb(150,16,13);
+}
+
+.fondo-imagen {
+    background-image: url(imagenes/skate1.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-x: bottom -5%;
+    background-position-y: 130%;
+}

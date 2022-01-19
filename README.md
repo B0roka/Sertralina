@@ -1,2 +1,2 @@
 # Sertralina
-este es mi proyecto web xd
+Pagina web sobre skateboards
